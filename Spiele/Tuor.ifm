@@ -1,0 +1,18 @@
+title "Tuor";
+
+map "Wald";
+room "Quelle" tag Quelle start exit w ne nw se;
+
+room "Behausung" dir ne;
+	item "Harfe";
+
+room "Im Wald" dir w;
+
+room "Im Wald" dir w exit s e w se;
+	item "Seil";
+	item "Orks";
+
+room "In einer Ebene" dir s;
+	
+
+room "Gebirge" dir s exit n;

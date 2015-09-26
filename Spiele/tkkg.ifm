@@ -1,0 +1,12 @@
+map "TKKG";
+room "Start";
+room "Autos" dir n;
+room "Moor" dir w tag moor_1;
+room "Polizei" dir s tag polizei;
+room "Moor" dir w from moor_1;
+room "Grabhügel" dir s tag grabh;
+room "Blutspur" dir w;
+room "Moor" dir s tag moor_2;
+room "Schrotplatz; du bist tod" dir e tag schrott;
+room "Moor mit Schlange" dir w from moor_2;
+

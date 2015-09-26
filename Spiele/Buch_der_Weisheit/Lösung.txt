@@ -1,0 +1,45 @@
+BUCH DER WEISHEIT:
+Befehlsliste:
+GEHE, NIMM, SCHAU, TAUSCHE, BEFESTIGE, DREHE, FUELLE, OEFFNE, REITE, ZUENDE, 
+LEGE, KLETTER, SPRING, BENUTZE, LIES, HEBE, TRAGE, ESSE, ISS, TRINK, LAUF, 
+RENN, INVENTUR, VERJAGE, TOETE, SAVE, SCHIEBE, LADE, RAEUME, WERFE, FRAGE, 
+FUETTERE, REIBE, FAELLE, LOESCHE, HILFE  
+ 
+Aufgabe ist es, das Buch der Weisheit zu finden und zu den Zwergen zu bringen. 
+Viele Aktionen in diesem Abenteuer sind offensichtlich und bedürfen keiner 
+besonderen Erwähnung. Zu den Schlüsselstellen hier allerdings einige mehr oder 
+weniger kryptische Tips:  
+ 
+F: Wie komme ich aus der Start-Karte raus?
+A: Aladin lässt grüssen. 
+F: Kann ich es vermeiden, im Sumpf zu ersaufen?
+A: Ja, der Pegasus fliegt Dich raus, wenn Du den magischen Ring drehst. 
+Vorsicht – begrenzte Ladungen, also nicht dauernd reinstolpern. 
+F: Wie komme ich ohne Boot über den Fluss?
+A: Nutze die örtliche Grossflora. 
+F: Wie komme ich an der fleischfressenden Pflanze vorbei?
+A: Sie wird hungrig sein. 
+F: Wie mache ich Feuer?
+A: Wie die Urmenschen. 
+F: Keine meiner Waffen beeindruckt den Zyklopen... was nun?
+A: Eine Deiner Waffen kann aufgepeppt werden. 
+F: Wie komme ich an den Wasserschächten vorbei?
+A: Wasser hat keine Balken. 
+F: Die Kobolde klauen meine wichtigen Gegenstände!
+A: Keine Bange. Sie wollen nur Dein Bestes – Dein Geld. 
+F: Was mach ich bloss mit der Lore?
+A: Führe sie am richtigen Ort ihrer Bestimmung zu. 
+F: Wo sind die Schlüssel zu Truhe und Kiste?
+A: Selbst ist der Mann. 
+F: Wie komme ich an dem Wächter vorbei?
+A: Buh! 
+F: Wie war nochmal der Name des Herrschers?
+A: Wer lesen kann, ist klar im Vorteil. 
+F:  Welche Waffen helfen gegen welche Monster?
+A: Axt: Skorpion (werfen). Schwert: Tiger, Spinne, Steinfresser. Pfeil und 
+Bogen: Flugdrache. Speer: Puma, Tarantel.
+
+
+*****************************************************
+Displayed on the Classic Adventures Solution Archive:
+http://solutionarchive.com

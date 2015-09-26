@@ -1,0 +1,13 @@
+Task list for Buch der Weisheit
+
+Start: Huette
+
+Move to Lichtung1 (S)
+Move to Wald7 (W)
+Move to Wald5 (S)
+Move to Wald4 (S)
+
+Wald4:
+   An der Lampe reiben
+
+Total distance travelled: 4

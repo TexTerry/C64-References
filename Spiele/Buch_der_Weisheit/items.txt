@@ -1,0 +1,19 @@
+Item list for Buch der Weisheit
+
+Aepfel:
+   seen in Wald2
+
+Eier:
+   seen in Wald7
+
+Oel-Lampe:
+   seen in Wald4
+
+muenzen:
+   seen in Steppe2
+
+notiz:
+   seen in Huette
+
+tarantel:
+   seen in Steppe2

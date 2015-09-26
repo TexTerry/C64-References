@@ -1,0 +1,72 @@
+# IFM Map für "Buch der Weisheit"
+#   ein Textadventure von Markt & Technik
+#   für den C64.
+#
+
+# GEHE, NIMM, SCHAU, TAUSCHE, BEFESTIGE, DREHE,
+# FUELLE, OEFFNE, REITE, ZUENDE, 
+# LEGE, KLETTER, SPRING, BENUTZE, LIES, HEBE, 
+# TRAGE, ESSE, ISS, TRINK, LAUF, 
+# RENN, INVENTUR, VERJAGE, TOETE, SAVE, SCHIEBE,
+# LADE, RAEUME, WERFE, FRAGE, 
+# FUETTERE, REIBE, FAELLE, LOESCHE, HILFE 
+#
+# Kommandos
+#  inventur   - Inventar anzeigen
+#  save       - Spielstand speichern
+
+
+title "Buch der Weisheit";
+
+
+map "Startkarte";
+room "Huette" tag heutte start exit s;
+	item "notiz";
+
+room "Lichtung1" tag lichtung_1 dir s exit n s w;
+room "Wald7" tag wald_7 dir w from lichtung_1 exit s e;
+	item "Eier";
+
+
+room "Wald5" tag wald_5 dir s from wald_7 exit n s w e;
+
+room "Wald1" tag wald_1 dir s from lichtung_1 exit n s w;
+
+room "Lichtung2" tag lichtung_2 dir s exit n s w;
+
+room "Wald2" tag wald_2 dir s exit n w;
+	item "Aepfel";
+
+room "Wald3" tag wald_3 dir w exit n e;
+
+room "Wald4" tag wald_4 dir n exit n s e w;
+	item "Oel-Lampe";
+	task "An der Lampe reiben";
+
+
+room "Lichtung3" tag lichtung_3 dir w from wald_5 exit s e;
+
+room "Wald8" tag wald_8 dir s exit n e;
+
+
+link wald_1 to wald_5;
+link wald_4 to wald_5;
+link lichtung_2 to wald_4;
+link wald_8 to wald_4;
+
+
+
+map "Wald";
+
+room "Im Wald, von Pegasus abgesetzt" tag wald_w1 exit e;
+
+room "Steppe1" tag steppe1 dir e exit n s e;
+room "Farnwald" tag farnwald dir n exit n s e;
+room "Steppe2" tag steppe2 dir n exit n s e;
+	item "muenzen";
+	item "tarantel";
+
+
+
+
+
